@@ -1,0 +1,39 @@
+body {
+    background-color: #09046fba;
+}
+
+.container-contact {
+    margin: 15px auto;
+    width: 600px;
+    background-color: #72a2b7;
+    border-radius: 20px;
+}
+
+.contact-id {
+    text-align: center;
+    font-size: 24px;
+    padding: 10px;
+    color: rgb(235, 4, 62);
+    font-weight: bold;
+}
+
+.contact-info {
+    padding: 15px 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-name, .contact-number {
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+.input-search {
+    margin: 50px 0 50px 793px;
+}
+
+.input-search input {
+    padding: 5px;
+    border-radius: 8px;
+    outline: none;
+}
